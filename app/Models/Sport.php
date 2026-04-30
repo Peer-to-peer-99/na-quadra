@@ -11,5 +11,8 @@ class Sport extends Model
         'slug'
     ];
 
-    
+    public function courts()
+    {
+        return $this->hasMany(Court::class);
+    }
 }
