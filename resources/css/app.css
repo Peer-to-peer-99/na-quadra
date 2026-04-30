@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=swap');
 @import 'tailwindcss';
 
 @import 'tw-animate-css';
@@ -72,6 +73,18 @@
     --color-malachite-800: #136836;
     --color-malachite-900: #12552f;
     --color-malachite-950: #042f17;
+
+    --color-boston-blue-50: #effafc;
+    --color-boston-blue-100: #d6f0f7;
+    --color-boston-blue-200: #b1e2f0;
+    --color-boston-blue-300: #7ccce4;
+    --color-boston-blue-400: #3fadd1;
+    --color-boston-blue-500: #2596be;
+    --color-boston-blue-600: #20749a;
+    --color-boston-blue-700: #215f7d;
+    --color-boston-blue-800: #234f67;
+    --color-boston-blue-900: #214358;
+    --color-boston-blue-950: #112a3b;
 }
 
 :root {
